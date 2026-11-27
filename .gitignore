@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.tools/
+.cache/
+.npm-cache/
+test-results/
+playwright-report/
+android/.gradle/
+android/local.properties
+android/**/build/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor*.json
+*.log
+*.tsbuildinfo
